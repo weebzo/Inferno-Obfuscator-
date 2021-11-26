@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inferno Obfuscator", "Inferno Obfuscator\Inferno Obfuscator.csproj", "{CE71BC88-C6EE-4D62-982B-91542C8E3527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE71BC88-C6EE-4D62-982B-91542C8E3527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE71BC88-C6EE-4D62-982B-91542C8E3527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE71BC88-C6EE-4D62-982B-91542C8E3527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE71BC88-C6EE-4D62-982B-91542C8E3527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
